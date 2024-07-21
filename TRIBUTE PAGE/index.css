@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+.body{
+    border-style:solid;
+    border-collapse: collapse;
+    margin: 8px;
+   padding: 5%;
+    background-color: rgb(206, 206, 206);
+    
+}
+.image{
+    align-items:left;
+    justify-content: left;
+    display: flex;
+}
+.name{
+   margin-top: 5PX;
+   font-size: 40PX;
+   
+}
+.about{
+font-size: 25px;
+background-color: rgb(164, 160, 160);
+
+}
+
+.WORDS{
+    font-size: 20PX;
+
+
+}
